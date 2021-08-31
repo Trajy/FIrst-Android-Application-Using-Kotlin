@@ -13,7 +13,6 @@ here you can found out a simple application to calculate bmi (body mass index), 
 - <div> <img align="left" alt="Android Studio" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"></div> Android Studio IDE
 
 - <div> <img align="left" alt="Gradle" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"></div> Gradle 7.0.1
-</div>
 
 ## Layouts
 
