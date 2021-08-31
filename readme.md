@@ -21,7 +21,7 @@ here you can found out a simple applicantion to calculate bmi (body mass index),
 
 - views can´t be overlapped
 
-  <div> <img align="left" alt="IntelliJ-Logcat" src="https://lh3.googleusercontent.com/CbNhg4Jvt5VsucXb8Ue-lIlFemOzOypz-pDDIku19-xYKAzxCg9mu5rYg27NEsmfS_C3RYImJ7WJtUK5i32M4tD1uQRSIyIjmf3Q2S40Yy0DCWh0qNKujOJPN4U-Q89Yu1E7L8e6joUFoQvrYoX1FkaAp9B1mIV_M_19uuNiu1hVM5hW3z7ztY3mVtxF7rYbJ2PI43Kb-_1_hj13a8J3ZFukM2-eWA3BPvhnU2_qOQKLUQFozB8s23rD8YE8eKFuLMUE0MYM3eQSQBMWfare1ma2XGT4tsHL6HRjRhLbaW9_8B0rqlUqBR2cuMcnG2McyEMvXHxUx079NyeFKwsVObCUc08ZwSWMXJL8NO-G0MsQc604u7K7-xDA42DyfYQUwR4aF47D8Fk0TfbK31Rw7mSP4sIx9OAfkitmYgMh7UNi0zFQLCMw29P7ArACJtvSOX3tw2vNifKfBCN2ICvrYSz8NDmfVa0DbKu6bCe3v-rt4rqaAtVPGFRvMxDQGMxJCwgyj-BAPuSBWkej01du_5IWfwfkz9--Lw5uGjM6EjFUFOGJywuKrRQJTHcxEFZqDtsJY3-Uh6i8LBjJdQZVChJOKRGDF5cw1eYo4JuXjfyLCIUpaKiVzIDDssvgXUtC1UTvB_x9tm6xeAZF9Na1lajpqzUnF-KXrK1Ywtz8NxXHSeJTO3gvabGEhrj4VHfq4f9n8CY_s8z2em_QONlAcnfH=w580-h381-no?authuser=0"></div>
+  <div> <img align="left" alt="IntelliJ-Logcat" src="https://lh3.googleusercontent.com/CbNhg4Jvt5VsucXb8Ue-lIlFemOzOypz-pDDIku19-xYKAzxCg9mu5rYg27NEsmfS_C3RYImJ7WJtUK5i32M4tD1uQRSIyIjmf3Q2S40Yy0DCWh0qNKujOJPN4U-Q89Yu1E7L8e6joUFoQvrYoX1FkaAp9B1mIV_M_19uuNiu1hVM5hW3z7ztY3mVtxF7rYbJ2PI43Kb-_1_hj13a8J3ZFukM2-eWA3BPvhnU2_qOQKLUQFozB8s23rD8YE8eKFuLMUE0MYM3eQSQBMWfare1ma2XGT4tsHL6HRjRhLbaW9_8B0rqlUqBR2cuMcnG2McyEMvXHxUx079NyeFKwsVObCUc08ZwSWMXJL8NO-G0MsQc604u7K7-xDA42DyfYQUwR4aF47D8Fk0TfbK31Rw7mSP4sIx9OAfkitmYgMh7UNi0zFQLCMw29P7ArACJtvSOX3tw2vNifKfBCN2ICvrYSz8NDmfVa0DbKu6bCe3v-rt4rqaAtVPGFRvMxDQGMxJCwgyj-BAPuSBWkej01du_5IWfwfkz9--Lw5uGjM6EjFUFOGJywuKrRQJTHcxEFZqDtsJY3-Uh6i8LBjJdQZVChJOKRGDF5cw1eYo4JuXjfyLCIUpaKiVzIDDssvgXUtC1UTvB_x9tm6xeAZF9Na1lajpqzUnF-KXrK1Ywtz8NxXHSeJTO3gvabGEhrj4VHfq4f9n8CY_s8z2em_QONlAcnfH=w580-h381-no?authuser=0"><br clear="all"/></div>
 
 ### Relative Layout
 
@@ -30,7 +30,7 @@ here you can found out a simple applicantion to calculate bmi (body mass index),
 - it doesn't chained layouts
 - need to create a complex views relationship
 
-<div> <img align="left" alt="IntelliJ-Logcat" src="https://lh3.googleusercontent.com/C8E83Ci60Dn6se4bvuMcNPLMqDaELwvu0CIugrmr2ppDIugkPYoF4U7SoN1UAPBpf7xa7jO9hb31vXpRiKksO2C9tk7fGTy-yK05UTb3mW4-eFc-cS-lS6bd9yCfOoWetEo5fZiuu5n438hQTklWisqEt9o3I-psDGyGvcJtSQUASlFgXJtJIw1o7pq6p-0jMAUE2fEZD_nqi708uZA2cRrd26Em2OvNyzLt5ERzQT0Fv4W21xpqSVmaIZZw441djwMvg-4NkbCGNkIXvQnFhOJWFjSiLVK67Op3fR6LjLdbzvSALcrLoO-mxxKlRDLs1xs1L_Ax1d-PgPC4JgE4NHb3bBI8-QkuW_ClDv9PG9kDWcoWebZrvdRCVyu_9hsP2Z0g0eq9oaqbC9bnAcdsE8bOM0BK9WWpmvpEFmIpZbowdAfdhOBgypGIQBNS6EmFftPZJ2AXRWWPKhH--GzUuQk6mVl3-0DbVMqshmtL7UvRpl0GM7GXSD1XxZ8cFyNDtJByLA2_3jpZuKVhlQWNQkiIR9R6C3riHLllbeKZ4qXGYSF3CHhj3DUlQliPN9vZDu3JSz6CW5umWBSqs11Y9G-ivU25JXaor9if6kDaZxkd8FyXHSd3DvYpWORhN0nil8ndw3bpHQTJV1iwtLh39u06J9UWoTurWjOFfL9-9qUcKU7E_bEVsG_X_jxk9653jZw8FRILlk1P9PGHL3MzX8m4=w258-h380-no?authuser=0"></div>
+<div> <img align="left" alt="IntelliJ-Logcat" src="https://lh3.googleusercontent.com/C8E83Ci60Dn6se4bvuMcNPLMqDaELwvu0CIugrmr2ppDIugkPYoF4U7SoN1UAPBpf7xa7jO9hb31vXpRiKksO2C9tk7fGTy-yK05UTb3mW4-eFc-cS-lS6bd9yCfOoWetEo5fZiuu5n438hQTklWisqEt9o3I-psDGyGvcJtSQUASlFgXJtJIw1o7pq6p-0jMAUE2fEZD_nqi708uZA2cRrd26Em2OvNyzLt5ERzQT0Fv4W21xpqSVmaIZZw441djwMvg-4NkbCGNkIXvQnFhOJWFjSiLVK67Op3fR6LjLdbzvSALcrLoO-mxxKlRDLs1xs1L_Ax1d-PgPC4JgE4NHb3bBI8-QkuW_ClDv9PG9kDWcoWebZrvdRCVyu_9hsP2Z0g0eq9oaqbC9bnAcdsE8bOM0BK9WWpmvpEFmIpZbowdAfdhOBgypGIQBNS6EmFftPZJ2AXRWWPKhH--GzUuQk6mVl3-0DbVMqshmtL7UvRpl0GM7GXSD1XxZ8cFyNDtJByLA2_3jpZuKVhlQWNQkiIR9R6C3riHLllbeKZ4qXGYSF3CHhj3DUlQliPN9vZDu3JSz6CW5umWBSqs11Y9G-ivU25JXaor9if6kDaZxkd8FyXHSd3DvYpWORhN0nil8ndw3bpHQTJV1iwtLh39u06J9UWoTurWjOFfL9-9qUcKU7E_bEVsG_X_jxk9653jZw8FRILlk1P9PGHL3MzX8m4=w258-h380-no?authuser=0"><br clear="all"/></div>
 
 ### Constraint Layout
 
@@ -40,7 +40,7 @@ here you can found out a simple applicantion to calculate bmi (body mass index),
 
 - is based on forces applied to views through imaginary springs
 
-  <div> <img align="left" alt="IntelliJ-Logcat" src="https://www.journaldev.com/wp-content/uploads/2018/07/android-constraint-layout-remove-constraints.gif.webp"></div>
+  <div> <img align="left" alt="IntelliJ-Logcat" src="https://www.journaldev.com/wp-content/uploads/2018/07/android-constraint-layout-remove-constraints.gif.webp"><br clear="all"/></div>
 
 ## Useful notes
 
@@ -48,7 +48,7 @@ here you can found out a simple applicantion to calculate bmi (body mass index),
 
 - You can find a life cycle exemple, generanting logs looking for tag "W/Lifecycle" in Android Studio's logcat to describe which callback step application is running ([CallBacks Documentaion](https://developer.android.com/guide/components/activities/activity-lifecycle?hl=pt-br)).
 
-<div> <img align="left" alt="IntelliJ-Logcat" src="https://lh3.googleusercontent.com/xb1-P7xE33bNUv8OktqxdZcp-GaS-2qfKZnT-MPH0xKpEwhe9PDqoLj1-EswJuNH7O3QzThB9dCA8vNTdEIAG3HAyYEAVeIEQlzUGQ23TaDBZBMPJ70S-vqBNU9lprIKcGJGPHHTa5d-nw5qwjuUAXKIkfmxj__hN_emAnDczV0zmrvDC4XkG7jYMYBfl3cZDblulqmwEwuywNya9ibIJOlC41U_g97g2BpsE_oiPco1ibeREW1UHzxxHxWP0gmBcG059H5Lr1oA_W5yF5AauSE2GCtdF4mUy1Za7n_t7xFNb2DQC0tHq3LFLtoUjt1SSpKUrjCtT1BmI6BapXZlZocfUcY97Xusdm-sSEs0sQhkEe50QzYOqPsdYqYZ8Hk-vCRC9zGbir_sBfgTbOHLAJvr8F7DR7G-FXo8SnmwXov8oIPypMf_c7vcSo16oUKlbYK5dzFwtkNBWkehcvP2SOcUaXv-Qceb3i5rD85VsZS2zKgmveAynztTL2FTjioSj0NUpsidUjGAsK-bpxQ24cKeAdi4HEGufboDM1qAJQy2qUc3AHbpIAVGtudStZElKY6yXlxIf-Ao75YgAjqpcGLH--8pEMmLmNng4kwwMvuBqgims0BQz0J1HSZKJIaIiJFr3eGJGi7IaOksJAuFru8Tu3_5Bl5VXVSAdcEl0oWlyIIFGddQ82QNAyUbF3drWGs1ipuzdjvv5fcaoikgJgrH=w1366-h215-no?authuser=0"></div>
+<div> <img align="left" alt="IntelliJ-Logcat" src="https://lh3.googleusercontent.com/xb1-P7xE33bNUv8OktqxdZcp-GaS-2qfKZnT-MPH0xKpEwhe9PDqoLj1-EswJuNH7O3QzThB9dCA8vNTdEIAG3HAyYEAVeIEQlzUGQ23TaDBZBMPJ70S-vqBNU9lprIKcGJGPHHTa5d-nw5qwjuUAXKIkfmxj__hN_emAnDczV0zmrvDC4XkG7jYMYBfl3cZDblulqmwEwuywNya9ibIJOlC41U_g97g2BpsE_oiPco1ibeREW1UHzxxHxWP0gmBcG059H5Lr1oA_W5yF5AauSE2GCtdF4mUy1Za7n_t7xFNb2DQC0tHq3LFLtoUjt1SSpKUrjCtT1BmI6BapXZlZocfUcY97Xusdm-sSEs0sQhkEe50QzYOqPsdYqYZ8Hk-vCRC9zGbir_sBfgTbOHLAJvr8F7DR7G-FXo8SnmwXov8oIPypMf_c7vcSo16oUKlbYK5dzFwtkNBWkehcvP2SOcUaXv-Qceb3i5rD85VsZS2zKgmveAynztTL2FTjioSj0NUpsidUjGAsK-bpxQ24cKeAdi4HEGufboDM1qAJQy2qUc3AHbpIAVGtudStZElKY6yXlxIf-Ao75YgAjqpcGLH--8pEMmLmNng4kwwMvuBqgims0BQz0J1HSZKJIaIiJFr3eGJGi7IaOksJAuFru8Tu3_5Bl5VXVSAdcEl0oWlyIIFGddQ82QNAyUbF3drWGs1ipuzdjvv5fcaoikgJgrH=w1366-h215-no?authuser=0"><br clear="all"/></div>
 
 ## Documentation
 
