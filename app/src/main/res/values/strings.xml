@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">applicationbmi</string>
+    <string name="bmi">BMI</string>
+    <string name="body_mass_index">Body Mass Index</string>
+</resources>
